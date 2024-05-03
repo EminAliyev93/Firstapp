@@ -19,10 +19,10 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
         while (true) {
-            System.out.println("Please enter number manth");
-            int manth = sc.nextInt();
+            System.out.println("Please enter number month");
+            int month = sc.nextInt();
 
-            switch (manth) {
+            switch (month) {
                 case 1:
                     System.out.println("JANUARY");
                     break;
